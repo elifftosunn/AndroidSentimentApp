@@ -43,9 +43,8 @@ public class MainActivity extends AppCompatActivity {
         sentiment_text = new ArrayList<>();
         sentiment_label = new ArrayList<>();
 
-//        // create new DB
-//        db = new DBController(MainActivity.this);
-//        displayData();
+        // create new DB
+        db = new DBController(MainActivity.this);
 
         // for SPINNER(excel, csv, json)
         Spinner spinner_files = (Spinner) findViewById(R.id.spinner_files);

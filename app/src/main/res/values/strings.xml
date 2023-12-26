@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SentimentAnalysis</string>
+    <string name="title_home">Sentiment Analysis</string>
+    <string name="turnBack"> Geri Dön</string>
+    <string name="col1">ID</string>
+    <string name="col2">Text</string>
+    <string name="col3">Label</string>
+    <string name="row1ID">Row1</string>
+    <string name="row1Text">Row2</string>
+    <string name="row1Label">Row3</string>
+    <string-array name="files">
+        <item>Excel</item>
+        <item>CSV</item>
+        <item>Json</item>
+    </string-array>
+</resources>
